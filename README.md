@@ -81,5 +81,5 @@ OS name: "windows 10" ...
 
 1. Selectionner la ligne Public.SimpleProperty puis clic droit et cliquer "SELECT * from Public.SimpleProperty"
 2. Cliquer le bouton "Execute SQL"
-3. La table SimpleProperty affiche les valeurs enregistrées
+3. La table SimpleProperty affiche les valeurs des colonnes Id et Value
 
