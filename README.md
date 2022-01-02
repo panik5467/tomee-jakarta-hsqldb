@@ -66,3 +66,9 @@ OS name: "windows 10" ...
 - base/records  : afficher tous
 - base/list     : affiche tout (format json)
 - base/list/1   : affiche valeur id=1 (format json)
+
+# Base de données: HSQLDB (codé en java)
+- Dans le projet demo-jakarta, ouvrir le dossier src/resources/tomee
+- Copier le fichier runHSQLDB.bat dans C:\JAVA\tomee\bin\
+- Dble-cliquer "runHSQLDB.bat"
+
