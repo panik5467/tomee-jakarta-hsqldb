@@ -57,4 +57,5 @@ OS name: "windows 10" ...
 # Ouvrir l'application dans le navigateur (Chrome ou Edge)
 - Taper l'adresse "localhost:8080/demo-jakarta"
 
+![Alt text](jakarta.jpg?raw=true "Title")
 
