@@ -83,3 +83,5 @@ OS name: "windows 10" ...
 2. Cliquer le bouton "Execute SQL"
 3. La table SimpleProperty affiche les valeurs des colonnes Id et Value
 
+Tutoriel sur HSQLDB: https://www.tutorialspoint.com/hsqldb/hsqldb_installation.htm
+
