@@ -70,5 +70,16 @@ OS name: "windows 10" ...
 # Base de données: HSQLDB (codé en java)
 - Dans le projet demo-jakarta, ouvrir le dossier src/resources/tomee
 - Copier le fichier runHSQLDB.bat dans C:\JAVA\tomee\bin\
-- Dble-cliquer "runHSQLDB.bat"
+- Dble-cliquer "runHSQLDB.bat" : l'interface SQL s'affiche
+
+![Alt text](hsqldb.jpg?raw=true "Title")
+
+- Remplacer la valeur URL: "jdbc:hsqldb:mem:." par "jdbc:hsqldb:file:hsqldb/hsqldb"
+- Puis cliquer sur OK
+
+![Alt text](sql.jpg?raw=true "Title")
+
+1. Selectionner la ligne Public.SimpleProperty puis clic droit et cliquer "SELECT * from Public.SimpleProperty"
+2. Cliquer le bouton "Execute SQL"
+3. La table SimpleProperty affiche les valeurs enregistrées
 
