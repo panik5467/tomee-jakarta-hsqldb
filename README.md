@@ -59,3 +59,10 @@ OS name: "windows 10" ...
 
 ![Alt text](jakarta.jpg?raw=true "Title")
 
+# Api REST
+- base = demo-jakarta/rest/api
+- base/delete/1 : supprimer la valeur id=1
+- base/delete   : supprimer tous
+- base/records  : afficher tous
+- base/list     : affiche tout (format json)
+- base/list/1   : affiche valeur id=1 (format json)
